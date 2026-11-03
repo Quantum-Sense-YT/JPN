@@ -1,6 +1,3 @@
-[-> IPTV]([https://github.com/Quantum-Sense-YT/JPN/raw/refs/heads/main/Lecteur-IPTV.html)
+[-> IPTV]
 
 [Prévisualiser le HTML](https://html-preview.github.io/?url=https://github.com/Quantum-Sense-YT/JPN/raw/refs/heads/main/Lecteur-IPTV.html)
-
-[Prévisualiser le HTML](https://html-preview.github.io/?url=https://github.com/Quantum-Sense-YT/JPN/raw/refs/heads/main/JP_Categories.m3u)
-
